@@ -3,6 +3,7 @@ package pl.zajecia;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	//zmieniono plik main aby wykonac komit
+        System.out.println("Witaj");
     }
 }
